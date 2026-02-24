@@ -38,15 +38,15 @@ A **sample project** for trying out various GitHub open-source projects.
 
 | Project | Description | Installation | GitHub |
 |---------|-------------|--------------|--------|
-| **VContainer** | DI for Unity | UPM + manual install | [hadashiA/VContainer](https://github.com/hadashiA/VContainer) (v1.17.0) |
-| **VitalRouter** | Message router for Unity | NuGet + UPM | [hadashiA/VitalRouter](https://github.com/hadashiA/VitalRouter) (v2.2.0) |
+| **VContainer** | DI for Unity | UPM + manual install | [hadashiA/VContainer](https://github.com/hadashiA/VContainer) |
+| **VitalRouter** | Message router for Unity | NuGet + UPM | [hadashiA/VitalRouter](https://github.com/hadashiA/VitalRouter) |
 
 ### References
 
 | Project | Description | Installation | GitHub |
 |---------|-------------|--------------|--------|
 | **AssetLink** | Asset reference/link utilities | UPM | [xpTURN/AssetLink](https://github.com/xpTURN/AssetLink) |
-| **WeakRef** | Weak reference (WeakReference) utilities | UPM | [xpTURN/WeakRef](https://github.com/xpTURN/WeakRef) |
+| **WeakRef** | Weak reference utilities | UPM | [xpTURN/WeakRef](https://github.com/xpTURN/WeakRef) |
 
 ---
 
