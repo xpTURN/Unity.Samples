@@ -1,6 +1,6 @@
 # CsPreview
 
-A **sample project** for trying out various GitHub open-source projects.
+A **sample project** for integrating and trying out open-source projects in the Unity engine.
 
 ---
 
