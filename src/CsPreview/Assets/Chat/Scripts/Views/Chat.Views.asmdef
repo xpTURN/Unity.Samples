@@ -1,0 +1,28 @@
+{
+    "name": "Chat.Views",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "UniTask",
+        "VContainer",
+        "VitalRouter.Unity",
+        "xpTURN.Polyfill.Runtime",
+        "xpTURN.XLogger.Runtime",
+        "xpTURN.XString.Runtime",
+        "Chat.Commands",
+        "Chat.ViewModels"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Extensions.Logging.Abstractions.dll",
+        "ZLogger.dll",
+        "VitalRouter.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Root",
+    "rootNamespace": "",
+    "references": [
+        "VContainer",
+        "ZLogger.Unity",
+        "VitalRouter.Unity",
+        "xpTURN.Polyfill.Runtime",
+        "xpTURN.XLogger.Runtime",
+        "xpTURN.XString.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Extensions.Logging.dll",
+        "Microsoft.Extensions.Logging.Abstractions.dll",
+        "ZLogger.dll",
+        "VitalRouter.dll",
+        "Utf8StringInterpolation.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

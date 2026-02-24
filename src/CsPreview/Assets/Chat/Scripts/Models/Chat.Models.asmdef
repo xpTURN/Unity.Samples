@@ -1,0 +1,22 @@
+{
+    "name": "Chat.Models",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "VContainer",
+        "VitalRouter.Unity",
+        "xpTURN.Polyfill.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VitalRouter.dll",
+        "ZLogger.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Chat.Commands",
+    "rootNamespace": "",
+    "references": [
+        "VitalRouter.Unity",
+        "xpTURN.Polyfill.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VitalRouter.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

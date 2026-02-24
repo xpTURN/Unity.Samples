@@ -1,0 +1,30 @@
+{
+    "name": "Chat",
+    "rootNamespace": "",
+    "references": [
+        "VContainer",
+        "ZLogger.Unity",
+        "VitalRouter.Unity",
+        "xpTURN.Polyfill.Runtime",
+        "Chat.Commands",
+        "Chat.Services",
+        "Chat.Models",
+        "Chat.ViewModels",
+        "Chat.Views"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VitalRouter.dll",
+        "ZLogger.dll",
+        "Utf8StringInterpolation.dll",
+        "Microsoft.Extensions.Logging.dll",
+        "Microsoft.Extensions.Logging.Abstractions.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

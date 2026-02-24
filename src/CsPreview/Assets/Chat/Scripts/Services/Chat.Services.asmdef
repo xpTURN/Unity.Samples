@@ -1,0 +1,22 @@
+{
+    "name": "Chat.Services",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "VitalRouter.Unity",
+        "Chat.Commands",
+        "xpTURN.Polyfill.Runtime",
+        "xpTURN.XString.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VitalRouter.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
